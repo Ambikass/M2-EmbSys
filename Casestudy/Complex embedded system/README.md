@@ -1,7 +1,7 @@
 # Digital Camera
 
 
-
+![WhatsApp Image 2022-02-17 at 10 05 00 PM](https://user-images.githubusercontent.com/46968025/154540675-4a6bb2b2-57f6-4c27-8371-7ce51aa5e04f.jpeg)
 
 IrDA: IrDA provides specifications for a complete set of protocols for wireless infrared communications, and the name "IrDA" also refers to that set of protocols
 The main reason for using the IrDA protocols had been wireless data transfer over the "last one meter" using point-and-shoot principles. Thus, it has been implemented in portable devices such as mobile telephones, laptops, cameras, printers, and medical devices. The main characteristics of this kind of wireless optical communication are physically secure data transfer, line-of-sight (LOS) and very low bit error rate (BER) that makes it very efficient.

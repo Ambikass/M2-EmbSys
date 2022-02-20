@@ -1,6 +1,6 @@
 # Case Study
 
-## Smart irrigation system
+## Smart Irrigation System
 
 
 ![irrigation_bd](https://user-images.githubusercontent.com/46968025/154854537-b0ad860a-b9ee-4d8d-b7b7-3a08a1b0e7a0.png)

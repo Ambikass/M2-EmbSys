@@ -33,14 +33,15 @@ A water level sensor circuit was constructed using an Arduino UNO, two 10 kilo-o
 ### Requirements
 
 #### High level requirements
-1.One of the most significant features is irrigation.
-2.Crop irrigation schedule on a daily basis.
-3.It irrigates at various levels of wetness.
-4.It conserves water.
-5.The complete irrigation system is controlled via a smartphone.
+
+* One of the most significant features is irrigation.
+* Crop irrigation schedule on a daily basis.
+* It irrigates at various levels of wetness.
+* It conserves water.
+* The complete irrigation system is controlled via a smartphone.
 
 #### Low Level Requirements
-1. The system will automatically activate when the soil moisture falls below a certain threshold.
-2.When the crop requires water, the system will provide it.
-3.The system measures the moisture content of the soil using the soil moisture level sensor.
-4.The water level is also checked by the system.
+* The system will automatically activate when the soil moisture falls below a certain threshold.
+* When the crop requires water, the system will provide it.
+* The system measures the moisture content of the soil using the soil moisture level sensor.
+* The water level is also checked by the system.

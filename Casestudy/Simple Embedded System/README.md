@@ -46,3 +46,8 @@ A water level sensor circuit was constructed using an Arduino UNO, two 10 kilo-o
 * When the crop requires water, the system will provide it.
 * The system measures the moisture content of the soil using the soil moisture level sensor.
 * The water level is also checked by the system.
+
+
+ #### V Model
+ 
+ ![WhatsApp Image 2022-02-20 at 10 37 52 PM](https://user-images.githubusercontent.com/46968025/154854963-48915301-ee32-4719-853f-9c5572442776.jpeg)

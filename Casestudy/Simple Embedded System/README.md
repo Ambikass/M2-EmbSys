@@ -1,12 +1,11 @@
-# Case Study
 
-## Smart Irrigation System
+# Smart Irrigation System
 
 
 ![irrigation_bd](https://user-images.githubusercontent.com/46968025/154854537-b0ad860a-b9ee-4d8d-b7b7-3a08a1b0e7a0.png)
 
 
-### Components:
+## Components:
 
 1.Arduino UNO R3 :
 Arduino is an open source physical processing platform that includes a microcontroller board and a development environment for programming the board. It receives a few inputs, such as switches or sensors, and monitors a few numerous outputs, such as lights, the engine, and so on.
@@ -31,9 +30,9 @@ Two DC motors were used to provide two pumps for water flow.
 6.Water Level Sensing Circuit :
 A water level sensor circuit was constructed using an Arduino UNO, two 10 kilo-ohm resistors, a bread board, jumper wires, and a 5V DC supply. It's used to check the amount of water in a tank.
 
-### Requirements
+## Requirements
 
-#### High Level Requirements
+### High Level Requirements
 
 * One of the most significant features is irrigation.
 * Crop irrigation schedule on a daily basis.
@@ -41,13 +40,13 @@ A water level sensor circuit was constructed using an Arduino UNO, two 10 kilo-o
 * It conserves water.
 * The complete irrigation system is controlled via a smartphone.
 
-#### Low Level Requirements
+### Low Level Requirements
 * The system will automatically activate when the soil moisture falls below a certain threshold.
 * When the crop requires water, the system will provide it.
 * The system measures the moisture content of the soil using the soil moisture level sensor.
 * The water level is also checked by the system.
 
 
- ### V Model
+ ## V Model
  
  ![WhatsApp Image 2022-02-20 at 10 37 52 PM](https://user-images.githubusercontent.com/46968025/154854963-48915301-ee32-4719-853f-9c5572442776.jpeg)

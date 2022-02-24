@@ -7,16 +7,15 @@ Traditional home security systems frequently necessitate installation and detect
 
 ## High Level Requirements
 
-*
-*
-*
-*
+* It must take action if anything comes within the range.
+* The distance can be measured.
+* The servo motor performing the function of a radar.
 
 ## Low Level Requirements
 
-*
-*
-*
-*
+* It must alert the user when object detects.
+* The corresponding distance of the object from the sensor gets dispplayed on the LCD screen.
+* The servo motor rotates continuuosly between 0 and 180 degrees.
+
 
 

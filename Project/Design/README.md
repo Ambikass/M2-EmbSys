@@ -28,3 +28,17 @@ LCD is a display and LCD's have a backlight, and pixels are turned on and off el
 ## Potentiometer
 
 A potentiometer is a voltage divider that consists of a three-terminal resistor with a sliding or revolving contact. Potentiometers are often used to operate electrical devices.
+
+
+
+## Applications
+
+ * Home
+ * Offices
+ * Institutes
+ * Industries
+ 
+
+
+
+

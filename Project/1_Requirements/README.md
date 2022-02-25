@@ -1,6 +1,17 @@
 # Abstract
 
 Traditional home security systems frequently necessitate installation and detect intrusion based on the opening and closing of doors and windows. Our ultrasonic security system will come in useful in situations where installation is not possible and/or the area of interest has no door because it does not require installation and identifies intruders based on their physical presence.
+A transmitter and a receiver are installed on a spinning motor in the ultrasonic sensor module. To allow the sensor to move, a motor is used to cover 360-degree .The sound energy of ultrasonics is sent into an area from a transmitting device interest, which in turn reacts to a change in the reflected interest.Essentially, it is based on the echo concept.The microcontroller accepts this signal and continuously monitors the ultrasonic transmitter's receiver output.Once the distance has been computed, the microcontroller checks to see if the object is within the alert range set by the microcontroller. The microcontroller sounds an alarm if the object is within the minimal range.
+
+# Identifing features
+
+* The system take the action if the object comes within the range.
+* The distance from the object to the sensor is displayed.
+* Once the object is detect the led will blink.
+* The motor is used to cover 360 degree coverage of the sensor. 
+
+
+
 
 # Requirements
 
@@ -38,17 +49,6 @@ Traditional home security systems frequently necessitate installation and detect
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # 4W's and 1H
 
 
@@ -58,3 +58,10 @@ Traditional home security systems frequently necessitate installation and detect
 
 
 
+
+## Applications
+
+ * Home
+ * Offices
+ * Institutes
+ * Industries

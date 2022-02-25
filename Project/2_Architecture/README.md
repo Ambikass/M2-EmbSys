@@ -41,7 +41,9 @@ A potentiometer is a voltage divider that consists of a three-terminal resistor 
 
 ## Behavioural Diagram 
 
+### Use Case Diagram
 
+![Use case diagram](https://user-images.githubusercontent.com/46968025/155762293-c4dc48f6-6e9e-4dc1-9763-e5e27f107e4a.PNG)
 
 
 

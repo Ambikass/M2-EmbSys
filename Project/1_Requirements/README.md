@@ -49,8 +49,9 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 
 
-# 4W's and 1H
+# 5W's and 1H
 
+![5W'S 1H](https://user-images.githubusercontent.com/46968025/155762540-e707de0e-0330-4ad8-8fa3-e354aa6420ac.PNG)
 
 
 

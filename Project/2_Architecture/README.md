@@ -1,6 +1,6 @@
 # Block Diagram
 
-
+![Security_block_diagram](https://user-images.githubusercontent.com/46968025/155761706-c5a3f852-338b-4f99-bf0f-a79762e53583.PNG)
 
 
 # Components 
@@ -31,6 +31,8 @@ Only analogue voltage values can be converted into digital values by an ADC. So,
 ## Potentiometer
 
 A potentiometer is a voltage divider that consists of a three-terminal resistor with a sliding or revolving contact. Potentiometers are often used to operate electrical devices.
+
+# Flow Chart
 
 
 

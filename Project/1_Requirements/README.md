@@ -37,7 +37,7 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 # SWOT Analysis
 
 
-
+![Green White Pink Modern Minimalist Teal Competitor SWOT Analysis Template Graph (1)](https://user-images.githubusercontent.com/46968025/155762535-9027d85c-726d-4499-8531-0283c4897913.png)
 
 
 

@@ -100,7 +100,7 @@ In this project ADC is used to convert sensor data to digital data
 
 ## Behavioral Diagram 
 
-### Flow Chart
+### Flow Chart Diagram
 
 ![Flow_chart](https://user-images.githubusercontent.com/46968025/155761722-16a6851e-0c59-419d-a96e-5698b26e6605.PNG)
 

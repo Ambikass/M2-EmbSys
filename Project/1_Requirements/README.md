@@ -1,3 +1,6 @@
+# Security System Using Ultrasonic Sensor
+
+
 # Abstract
 
 Traditional home security systems frequently necessitate installation and detect intrusion based on the opening and closing of doors and windows. Our ultrasonic security system will come in useful in situations where installation is not possible and/or the area of interest has no door because it does not require installation and identifies intruders based on their physical presence.
@@ -16,7 +19,9 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 # Requirements
 
 
+
 ## High Level Requirements
+
 
 |ID       |Description   |
 |---------|---------------|
@@ -27,11 +32,13 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 ## Low Level Requirements
 
+
 |ID   |Description     |
 |-----|----------------|
 |LLR1|Rhe system must alert the user when object detects|
 |LLR2| The corresponding distance of the object from the sensor gets dispplayed on the LCD screen|
 |LLR3| The servo motor rotates continuuosly between 0 and 180 degrees|
+
 
 
 # SWOT Analysis
@@ -51,6 +58,7 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 # 5W's and 1H
 
+
 ![5W'S 1H](https://user-images.githubusercontent.com/46968025/155762540-e707de0e-0330-4ad8-8fa3-e354aa6420ac.PNG)
 
 
@@ -60,7 +68,7 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 
 
-## Applications
+# Applications
 
  * Home
  * Offices

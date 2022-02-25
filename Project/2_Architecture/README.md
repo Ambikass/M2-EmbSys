@@ -36,7 +36,7 @@ In this project ADC is used to convert sensor data to digital data
 
 # UML Diagrams
 
-## Behavioural Diagram 
+## Behavioral Diagram 
 
 ### Flow Chart
 

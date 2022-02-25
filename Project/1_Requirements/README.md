@@ -23,7 +23,7 @@ Traditional home security systems frequently necessitate installation and detect
 |LLR3| The servo motor rotates continuuosly between 0 and 180 degrees|
 
 
-# SWOT Analysise
+# SWOT Analysis
 
 
 

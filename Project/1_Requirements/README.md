@@ -29,6 +29,7 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 | HLR2|The distance should be measured|
 | HLR3|The servo motor performs the function of a radar|
 | HLR4|The buzzer should be on if the object detects|
+| HLR5|If the object detects the servo motor should stop otherwise it keeps on rotating |
 
 
 ## Low Level Requirements

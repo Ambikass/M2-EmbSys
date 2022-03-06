@@ -74,5 +74,5 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
  * Home
  * Offices
  * Institutes
- * Industries
+ * Industries and many more.
  

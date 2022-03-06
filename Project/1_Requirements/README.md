@@ -8,10 +8,10 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 # Identifing features
 
-* The system takes the action if the object comes within the range.
-* The distance from the object to the sensor is displayed.
-* Once the object is detected the led will blink.
-* The motor is used to cover 360 degree coverage of the sensor. 
+* The system should take the action if the object comes within the range.
+* The distance from the object to the sensor should be displayed.
+* Once the object is detected the buzzer should be on.
+* The motor is used to cover 180 degree coverage of the sensor. 
 
 
 
@@ -25,9 +25,10 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 |ID       |Description   |
 |---------|---------------|
-|HLR1|The system must take action if anything comes within the range|
-| HLR2|The distance can be measured|
+| HLR1|The system should take action if anything comes within the range|
+| HLR2|The distance should be measured|
 | HLR3|The servo motor performs the function of a radar|
+| HLR4|The buzzer should be on if the object detects|
 
 
 ## Low Level Requirements
@@ -35,9 +36,9 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 |ID   |Description     |
 |-----|----------------|
-|LLR1|The system must alert the user when an object detects|
-|LLR2| The corresponding distance of the object from the sensor gets displayed on the LCD screen|
-|LLR3| The servo motor rotates continuously between 0 and 180 degrees|
+|LLR1|The system should alert the user when an object detects|
+|LLR2| The corresponding distance of the object from the sensor should be displayed on the LCD screen|
+|LLR3| The servo motor should rotates continuously between 0 and 180 degrees|
 
 
 

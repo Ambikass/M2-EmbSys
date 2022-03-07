@@ -1,6 +1,6 @@
 # Block Diagram
 
-![Security_block_diagram](https://user-images.githubusercontent.com/46968025/155761706-c5a3f852-338b-4f99-bf0f-a79762e53583.PNG)
+![NEW_BD](https://user-images.githubusercontent.com/46968025/157029669-233dd6b7-3f61-4182-bedf-f8dafa39743b.PNG)
 
 
 # Components 
@@ -53,7 +53,8 @@
 
 ### Flow Chart
 
-![Flow_chart](https://user-images.githubusercontent.com/46968025/155761722-16a6851e-0c59-419d-a96e-5698b26e6605.PNG)
+
+![New_FC](https://user-images.githubusercontent.com/46968025/157029694-1c9c14ed-4377-429b-b843-c08bbff39bec.PNG)
 
 
 
@@ -62,7 +63,9 @@
 
 ### Use Case Diagram
 
-![Use case diagram](https://user-images.githubusercontent.com/46968025/155762293-c4dc48f6-6e9e-4dc1-9763-e5e27f107e4a.PNG)
+
+![New_uc](https://user-images.githubusercontent.com/46968025/157029684-df9a03bf-a127-46ec-a83b-be263936296c.PNG)
+
 
 
 

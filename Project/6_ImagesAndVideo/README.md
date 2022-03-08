@@ -5,12 +5,12 @@
 ![Screenshot (4)](https://user-images.githubusercontent.com/46968025/157030793-eccb9712-0bbb-4b84-b82a-8e0eeef13eec.png)
 
 
-## When the person/object is not detected the servo motor keeps on rotatinng.
+## When the person/object is not detected the servo motor keeps on rotating.
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/46968025/157030798-03dd7ea3-1fe5-4185-b34f-fd0f9198e4e8.png)
 
 
-## When the person/object is detected the buzzer & LED will alert the user and LCD diisplays the distance of the person (in cm) from the LCD.
+## When the person/object is detected the buzzer & LED will alert the user and LCD displays the distance of the person (in cm) from the sensor.
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/46968025/157030813-f54ed48e-a16f-4c03-8552-fde1117159c5.png)
 

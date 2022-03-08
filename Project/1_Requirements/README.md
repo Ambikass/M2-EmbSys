@@ -23,23 +23,23 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 ## High Level Requirements
 
 
-|ID       |Description   |
-|---------|---------------|
-| HLR1|The system should take action if anything comes within the range|
-| HLR2|The distance should be measured|
-| HLR3|The servo motor performs the function of a radar|
-| HLR4|The buzzer should be on if the object detects|
-| HLR5|If the object detects the servo motor should stop otherwise it keeps on rotating |
+|ID       |Description   | Status|
+|---------|---------------|------|
+| HLR1|The system should take action if anything comes within the range|Implemented|
+| HLR2|The distance should be measured|Implemented|
+| HLR3|The servo motor performs the function of a radar|Implemented|
+| HLR4|The buzzer should be on if the object detects|Implemented|
+| HLR5|If the object detects the servo motor should stop otherwise it keeps on rotating |Implemented|
 
 
 ## Low Level Requirements
 
 
-|ID   |Description     |
-|-----|----------------|
-|LLR1|The system should alert the user when an object detects|
-|LLR2| The corresponding distance of the object from the sensor should be displayed on the LCD screen|
-|LLR3| The servo motor should rotates continuously between 0 and 180 degrees|
+|ID   |Description    |HLR ID |Status|
+|-----|----------------|-----|------|
+|LLR1|The system should alert the user when an object detects|HLR1 ,HLR4|Implemented|
+|LLR2| The corresponding distance of the object from the sensor should be displayed on the LCD screen|HLR2|Implemented|
+|LLR3| The servo motor should rotates continuously between 0 and 180 degrees if the object is not detects|HLR3,HLR5|Implemented|
 
 
 

@@ -74,13 +74,14 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 ## Arduino UNO
 
 * The Arduino/Genuino Uno microcontroller board is based on the ATmega328P microcontroller. There are 14 digital input/output pins (six of which can be used as PWM outputs), six analogue inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header, and a reset button on the board.
-* In this project an arduino uno is used to interface all the periferals.
+* In this project an arduino uno is used to interface all the peripherals.
+
 
 
 ## Ultrasonic sensor
 
 * An ultrasonic sensor is a piece of electronic equipment that produces ultrasonic sound waves and converts the reflected sound into an electrical signal in order to detect the distance between a target item and the sensor.
-* In this project an ultrasonic sensor is used to sense the object .
+* In this project an ultrasonic sensor is used to sense the object.
 
 
 ## Servo motor
@@ -141,12 +142,12 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 ![Screenshot (4)](https://user-images.githubusercontent.com/46968025/157030793-eccb9712-0bbb-4b84-b82a-8e0eeef13eec.png)
 
 
-## When the person/object is not detected the servo motor keeps on rotatinng.
+## When the person/object is not detected the servo motor keeps on rotating.
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/46968025/157030798-03dd7ea3-1fe5-4185-b34f-fd0f9198e4e8.png)
 
 
-## When the person/object is detected the buzzer & LED will alert the user and LCD diisplays the distance of the person (in cm) from the LCD.
+## When the person/object is detected the buzzer & LED will alert the user and LCD displays the distance of the person (in cm) from the sensor.
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/46968025/157030813-f54ed48e-a16f-4c03-8552-fde1117159c5.png)
 
@@ -165,10 +166,10 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 |Test ID   |Test Case objective  |Input data   |Expected output   |Actual Output|
 |----------|---------------------|-------------|------------------|-------------|
 |TC_01     |Object/person detection        |Object/person |Detected/Not detected|Detected/Not detected|
-|TC_02   |If the object/person detects  |Detected input of the sensor |Buzzer on|Buzzer on|
-|TC_03   |If the object/person detects|Object/person |Display the distance of the person/object from the lcd|Display the distance of the person/object from the lcd|
+|TC_02   |If the object/person detects  |Detected input of the sensor |Buzzer&LED ON|Buzzer&LED ON |
+|TC_03   |If the object/person detects|Object/person |Display the distance of the person/object from the sensor|Display the distance of the person/object from the sesor.|
 |TC_04   |If the object/person detects|Object/person |Servo motor should stop|Servo motor should stop|
-|TC_05|If the object/person should not be detected  |Object/person |Servo motor keeps on rotating|Servo motor keeps on rotating|
+|TC_05|If the object/person should not be detected. |Object/person |Servo motor keeps on rotating|Servo motor keeps on rotating|
 
 
 # Applications
@@ -176,6 +177,6 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
  * Security system is used in houses.
  * Security system is used in offices.
  * Security system is used in industries.
- * Security system is used in institutes.
- * Wherever we required security we can use the security system.
+ * Security systems are used in institutes.
+ * Wherever we require security we can use the security system.
 

@@ -8,7 +8,7 @@
 ## Arduino UNO
 
 * The Arduino/Genuino Uno microcontroller board is based on the ATmega328P microcontroller. There are 14 digital input/output pins (six of which can be used as PWM outputs), six analogue inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header, and a reset button on the board.
-* In this project an arduino uno is used to interface all the periferals.
+* In this project an arduino uno is used to interface all the peripherals.
 
 
 ## Ultrasonic sensor
@@ -32,7 +32,7 @@
 ## ADC
 
 * Only analogue voltage values can be converted into digital values by an ADC. So, whatever parameter we want to monitor, it must first be translated into voltage, which may be accomplished with the help of sensors.
-* In this project ADC is used to convert sensor data to digital data 
+* In this project ADC is used to convert sensor data to digital data. 
 
 
 ## Potentiometer

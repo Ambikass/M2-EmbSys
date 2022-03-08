@@ -37,9 +37,9 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 |ID   |Description    |HLR ID |Status|
 |-----|----------------|-----|------|
-|LLR1|The system should alert the user when an object detects|HLR1 ,HLR4|Implemented|
+|LLR1|The system should alert the user when an object detects|HLR1 HLR4|Implemented|
 |LLR2| The corresponding distance of the object from the sensor should be displayed on the LCD screen|HLR2|Implemented|
-|LLR3| The servo motor should rotates continuously between 0 and 180 degrees if the object is not detects|HLR3,HLR5|Implemented|
+|LLR3| The servo motor should rotates continuously between 0 and 180 degrees if the object is not detects|HLR3 HLR5|Implemented|
 
 
 

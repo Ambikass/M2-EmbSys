@@ -137,16 +137,16 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 
 
-
 # Test Plan
 
 
-|Test ID   |Test Case objective  |Input data   |Expected output   |
-|----------|---------------------|-------------|------------------|
-|TC_01     |Object detection        |Object |Detected/Not detected|
-|TC_02   |If object detects within the range  |Detected input of the sensor |Buzzer/LED on|
-|TC_03   |The object detects|Object |Display the distance|
-|TC_04|If the object should not detect  |Object |System continues it's working|
+|Test ID   |Test Case objective  |Input data   |Expected output   |Actual Output|
+|----------|---------------------|-------------|------------------|-------------|
+|TC_01     |Object/person detection        |Object/person |Detected/Not detected|Detected/Not detected|
+|TC_02   |If the object/person detects  |Detected input of the sensor |Buzzer on|Buzzer on|
+|TC_03   |If the object/person detects|Object/person |Display the distance of the person/object from the lcd|Display the distance of the person/object from the lcd|
+|TC_04   |If the object/person detects|Object/person |Servo motor should stop|Servo motor should stop|
+|TC_05|If the object/person should not be detected  |Object/person |Servo motor keeps on rotating|Servo motor keeps on rotating|
 
 
 # Applications

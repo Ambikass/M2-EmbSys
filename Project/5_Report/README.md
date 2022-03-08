@@ -32,15 +32,15 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 | HLR4|The buzzer should be on if the object detects|
 | HLR5|If the object detects the servo motor should stop otherwise it keeps on rotating |
 
-
 ## Low Level Requirements
 
 
 |ID   |Description     |
 |-----|----------------|
-|LLR1|The system must alert the user when an object detects|
-|LLR2| The corresponding distance of the object from the sensor gets displayed on the LCD screen|
-|LLR3| The servo motor rotates continuously between 0 and 180 degrees|
+|LLR1|The system should alert the user when an object detects|
+|LLR2| The corresponding distance of the object from the sensor should be displayed on the LCD screen|
+|LLR3| The servo motor should rotates continuously between 0 and 180 degrees|
+
 
 
 

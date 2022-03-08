@@ -173,9 +173,9 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 # Applications
 
- * Home
- * Offices
- * Institutes
- * Industries
- 
+ * Security system is used in houses.
+ * Security system is used in offices.
+ * Security system is used in industries.
+ * Security system is used in institutes.
+ * Wherever we required security we can use the security system.
 

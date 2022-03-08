@@ -1,7 +1,7 @@
 # Test Plan
 
 
-|Test ID   |Test Case objective  |Input data   |Expected output   |Actual Output|
+|Test ID   |Test Case Objective  |Input Data   |Expected Output   |Actual Output|
 |----------|---------------------|-------------|------------------|-------------|
 |TC_01     |Object/person detection        |Object/person |Detected/Not detected|Detected/Not detected|
 |TC_02   |If the object/person detects  |Detected input of the sensor |Buzzer&LED ON|Buzzer&LED ON|

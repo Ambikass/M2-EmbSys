@@ -13,7 +13,7 @@
  |--------------------|------------------------------------|
  |1_Requirements      |Documents detalilng requirements    |
  |2_Architecture      |Stuctural and behavioural UML       |
- |3_Impplementation   |All the code is written here        | 
+ |3_Implementation   |All the code is written here        | 
  |4_TestPlanAndOutout |Documents with test plan and output |
  |5_Report            |Generated report                    |   
  |6_ImagesAndVideo             |Implemented pictures & Video              |

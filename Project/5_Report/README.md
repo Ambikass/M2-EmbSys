@@ -6,12 +6,13 @@
 Traditional home security systems frequently necessitate installation and detect intrusion based on the opening and closing of doors and windows. Our ultrasonic security system will come in useful in situations where installation is not possible and/or the area of interest has no door because it does not require installation and identifies intruders based on their physical presence.
 A transmitter and a receiver are installed on a spinning motor in the ultrasonic sensor module. To allow the sensor to move, a motor is used to cover 360-degree .The sound energy of ultrasonics is sent into an area from a transmitting device interest, which in turn reacts to a change in the reflected interest.Essentially, it is based on the echo concept.The microcontroller accepts this signal and continuously monitors the ultrasonic transmitter's receiver output.Once the distance has been computed, the microcontroller checks to see if the object is within the alert range set by the microcontroller. The microcontroller sounds an alarm if the object is within the minimal range.
 
+
 # Identifing features
 
-* The system takes the action if the object comes within the range.
-* The distance from the object to the sensor is displayed.
-* Once the object is detected the led will blink.
-* The motor is used to cover 360 degree coverage of the sensor. 
+* The system should take the action if the object comes within the range.
+* The distance from the object to the sensor should be displayed.
+* Once the object is detected the buzzer should be on.
+* The motor is used to cover 180 degree coverage of the sensor. 
 
 
 
@@ -25,9 +26,11 @@ A transmitter and a receiver are installed on a spinning motor in the ultrasonic
 
 |ID       |Description   |
 |---------|---------------|
-|HLR1|The system must take action if anything comes within the range|
-| HLR2|The distance can be measured|
+| HLR1|The system should take action if anything comes within the range|
+| HLR2|The distance should be measured|
 | HLR3|The servo motor performs the function of a radar|
+| HLR4|The buzzer should be on if the object detects|
+| HLR5|If the object detects the servo motor should stop otherwise it keeps on rotating |
 
 
 ## Low Level Requirements
